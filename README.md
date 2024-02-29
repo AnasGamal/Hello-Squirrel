@@ -35,9 +35,11 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/AnasGamal/Hello-Squirrel/blob/main/Kapture%202024-02-25%20at%2017.16.54.gif?raw=true' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+
+
+GIF created with Kap
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -50,7 +52,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2024** **Anas Aly**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
